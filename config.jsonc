@@ -131,6 +131,7 @@
       "type": "localip",
       "key": "   ├󰲝",
       "showIpv4": true,
+      "showPrefixLen": false,
       "keyColor": "#532891"
     },
     {
