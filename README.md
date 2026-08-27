@@ -1,5 +1,7 @@
 # 2112 Themed Fastfetch
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 ```bash
@@ -21,3 +23,4 @@ fastfetch # can be added to .bashrc, .fishrc, .zshrc, etc
 - Use a [Nerd Font](https://www.nerdfonts.com/) (e.g. JetBrainsMono Nerd Font, FiraCode Nerd Font, Iosevka Nerd Font) to properly display theme icons.
 - Use a truecolor-capable terminal (Alacritty, Kitty, Foot, Ghostty, iTerm2, etc.) for best color support.
 - Use a Dracula/Darcula variant theme.
+- [2112ahhlookinbg.jpg](2112ahhlookinbg.jpg) is provided as a background image for terminals that support it.
