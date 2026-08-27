@@ -1,5 +1,7 @@
 # 2112 Themed Fastfetch
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 ```bash
